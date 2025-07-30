@@ -13,3 +13,5 @@
 
 - **Технологии:** Vue 3, Vite, Tailwind CSS
 - **Последнее обновление:** 30.07.2025
+
+![Preview](previewImage.png "Title")
